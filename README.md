@@ -1,5 +1,5 @@
 # Particle Lab Report (Practical Assessment)  
-**BCA-I Semester (2076)**  
+**BCA-I Semester (2081)**  
 
 ## Purpose  
 This practical exercise is designed to enhance skills in:  
